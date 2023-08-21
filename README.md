@@ -1,3 +1,25 @@
+I have also added UISlider color changes according to changing BMI value.
+
+
+
+
+
+![Simulator Screen Recording - iPhone 14 Pro - 2023-08-22 at 02 19 02](https://github.com/scgursel/BMI-Calculator/assets/95382610/cb037bd6-b82a-4c26-9662-1f3f9165a7b9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************************************************************************************************************
+
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
